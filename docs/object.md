@@ -14,14 +14,10 @@ Objectコンストラクタによって生成されるインスタンスのこ�
 ```javascript
 // Objectコンストラクタ
 const obj = new Object();
-```
 
-```javascript
 // オブジェクトリテラル
 const obj = {};
-```
 
-```javascript
 console.log({} instanceof Object); // true
 ```
 
